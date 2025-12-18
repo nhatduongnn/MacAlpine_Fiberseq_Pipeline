@@ -1,7 +1,10 @@
-# Data Processing
-
+# Sequencing
 - Sequencing was done on MinION with flowcell R10.4.1
 - Made to to tell sequencing machine to output POD5 files.
+
+---
+
+# Data Processing
 
 ## Raw Signal to Aligned Reads
 ### Programs:
