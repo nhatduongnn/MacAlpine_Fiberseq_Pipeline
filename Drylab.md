@@ -12,6 +12,7 @@ Dorado (version 0.9.1)
 
 **At this point we should have aligned BAM files**
 
+---
 
 ## Aligned Reads to Methylation Files
 
@@ -24,6 +25,7 @@ All data processing in this step was done on a cluster with one NVIDIA A5000 gpu
 - Use modkit extract to obtain a (very big) file with each row being one methylation on a single fiber. 
 - Use modkit pileup to obtain a file with each row being summary for each methylated position in the genome
 
+---
 ## Plotting and making fiber figures
 
 ### Programs:
