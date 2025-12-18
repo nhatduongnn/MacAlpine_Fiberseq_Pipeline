@@ -35,6 +35,7 @@ Python 3
 ### Workflow:
 
 Load in a section of modkit extract result file. This file should have info like the start and end of fibers and location of methylation. This should be enough to recreate fiber plots. 
+These files can be really big so efficiently loading in the file and storing the file is potentially necessary
 
 
 
